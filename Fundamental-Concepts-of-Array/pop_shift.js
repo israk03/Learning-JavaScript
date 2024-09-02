@@ -10,9 +10,9 @@ console.log(lastFruit); // Outputs: "Mango"
 
 
 // shift()
-let fruits = ["Apple", "Banana", "Mango"];
+let fruitss = ["Apple", "Banana", "Mango"];
 
-let firstFruit = fruits.shift();
+let firstFruit = fruitss.shift();
 
-console.log(fruits); // Outputs: ["Banana", "Mango"]
+console.log(fruitss); // Outputs: ["Banana", "Mango"]
 console.log(firstFruit); // Outputs: "Apple"
